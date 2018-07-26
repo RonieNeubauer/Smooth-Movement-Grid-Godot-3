@@ -7,7 +7,7 @@ var move = "stop"
 var play_pos = Vector2(0,0)
 
 func _ready():
-	self.position = Vector2(get_node("..").cell_size / 2, get_node("..").cell_size / 2) # Delete /2 for nodes
+	self.position = Vector2(get_node("..").cell_size, get_node("..").cell_size) # To Centralize get_node("..").cell_size / 2
 	set_physics_process(true)
 
 func step_move(key, dir, speed):
