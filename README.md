@@ -1,5 +1,5 @@
 Migrating this tutorial from Godot 2 to Godot 3.0.5
-https://www.youtube.com/watch?v=6h79ZiJWZYA&t=337s
+https://youtu.be/6h79ZiJWZYA?t=321
 
 Demo
 http://miragefans.com/godot/
